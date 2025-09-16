@@ -1,0 +1,1355 @@
+CRITICAL - 2025-09-09 15:00:13 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "welcome.php"
+[Method: GET, Route: /]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('welcome.php')
+ 2 SYSTEMPATH\Common.php(1167): CodeIgniter\View\View->render('welcome', [], true)
+ 3 APPPATH\Controllers\Home.php(11): view('welcome')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->index()
+ 5 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-09-09 15:00:20 --> Error: Class "App\Models\MahasiswaModel" not found
+[Method: GET, Route: mahasiswa]
+in APPPATH\Controllers\Mahasiswa.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Mahasiswa->display()
+ 2 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Mahasiswa))
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-09-09 15:00:26 --> Error: Class "App\Models\MahasiswaModel" not found
+[Method: GET, Route: mahasiswa]
+in APPPATH\Controllers\Mahasiswa.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Mahasiswa->display()
+ 2 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Mahasiswa))
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-09-09 15:03:27 --> Error: Class "App\Models\MahasiswaModel" not found
+[Method: GET, Route: mahasiswa]
+in APPPATH\Controllers\Mahasiswa.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Mahasiswa->display()
+ 2 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Mahasiswa))
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-09-09 15:03:28 --> Error: Class "App\Models\MahasiswaModel" not found
+[Method: GET, Route: mahasiswa]
+in APPPATH\Controllers\Mahasiswa.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Mahasiswa->display()
+ 2 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Mahasiswa))
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-09-09 15:03:28 --> Error: Class "App\Models\MahasiswaModel" not found
+[Method: GET, Route: mahasiswa]
+in APPPATH\Controllers\Mahasiswa.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Mahasiswa->display()
+ 2 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Mahasiswa))
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-09-09 15:03:28 --> Error: Class "App\Models\MahasiswaModel" not found
+[Method: GET, Route: mahasiswa]
+in APPPATH\Controllers\Mahasiswa.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Mahasiswa->display()
+ 2 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Mahasiswa))
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-09-09 15:03:28 --> Error: Class "App\Models\MahasiswaModel" not found
+[Method: GET, Route: mahasiswa]
+in APPPATH\Controllers\Mahasiswa.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Mahasiswa->display()
+ 2 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Mahasiswa))
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-09-09 15:03:28 --> Error: Class "App\Models\MahasiswaModel" not found
+[Method: GET, Route: mahasiswa]
+in APPPATH\Controllers\Mahasiswa.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Mahasiswa->display()
+ 2 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Mahasiswa))
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-09-09 15:03:29 --> Error: Class "App\Models\MahasiswaModel" not found
+[Method: GET, Route: mahasiswa]
+in APPPATH\Controllers\Mahasiswa.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Mahasiswa->display()
+ 2 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Mahasiswa))
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-09-09 15:03:29 --> Error: Class "App\Models\MahasiswaModel" not found
+[Method: GET, Route: mahasiswa]
+in APPPATH\Controllers\Mahasiswa.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Mahasiswa->display()
+ 2 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Mahasiswa))
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-09-09 15:03:29 --> Error: Class "App\Models\MahasiswaModel" not found
+[Method: GET, Route: mahasiswa]
+in APPPATH\Controllers\Mahasiswa.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Mahasiswa->display()
+ 2 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Mahasiswa))
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-09-09 15:03:29 --> Error: Class "App\Models\MahasiswaModel" not found
+[Method: GET, Route: mahasiswa]
+in APPPATH\Controllers\Mahasiswa.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Mahasiswa->display()
+ 2 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Mahasiswa))
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-09-09 15:03:29 --> Error: Class "App\Models\MahasiswaModel" not found
+[Method: GET, Route: mahasiswa]
+in APPPATH\Controllers\Mahasiswa.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Mahasiswa->display()
+ 2 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Mahasiswa))
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-09-09 15:03:30 --> Error: Class "App\Models\MahasiswaModel" not found
+[Method: GET, Route: mahasiswa]
+in APPPATH\Controllers\Mahasiswa.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Mahasiswa->display()
+ 2 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Mahasiswa))
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-09-09 15:03:30 --> Error: Class "App\Models\MahasiswaModel" not found
+[Method: GET, Route: mahasiswa]
+in APPPATH\Controllers\Mahasiswa.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Mahasiswa->display()
+ 2 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Mahasiswa))
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-09-09 15:03:30 --> Error: Class "App\Models\MahasiswaModel" not found
+[Method: GET, Route: mahasiswa]
+in APPPATH\Controllers\Mahasiswa.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Mahasiswa->display()
+ 2 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Mahasiswa))
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-09-09 15:03:30 --> Error: Class "App\Models\MahasiswaModel" not found
+[Method: GET, Route: mahasiswa]
+in APPPATH\Controllers\Mahasiswa.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Mahasiswa->display()
+ 2 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Mahasiswa))
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-09-09 15:03:31 --> Error: Class "App\Models\MahasiswaModel" not found
+[Method: GET, Route: mahasiswa]
+in APPPATH\Controllers\Mahasiswa.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Mahasiswa->display()
+ 2 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Mahasiswa))
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-09-09 15:03:32 --> Error: Class "App\Models\MahasiswaModel" not found
+[Method: GET, Route: mahasiswa]
+in APPPATH\Controllers\Mahasiswa.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Mahasiswa->display()
+ 2 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Mahasiswa))
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-09-09 15:03:32 --> Error: Class "App\Models\MahasiswaModel" not found
+[Method: GET, Route: mahasiswa]
+in APPPATH\Controllers\Mahasiswa.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Mahasiswa->display()
+ 2 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Mahasiswa))
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-09-09 15:03:32 --> Error: Class "App\Models\MahasiswaModel" not found
+[Method: GET, Route: mahasiswa]
+in APPPATH\Controllers\Mahasiswa.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Mahasiswa->display()
+ 2 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Mahasiswa))
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-09-09 15:07:35 --> Error: Class "App\Models\MahasiswaModel" not found
+[Method: GET, Route: mahasiswa]
+in APPPATH\Controllers\Mahasiswa.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Mahasiswa->display()
+ 2 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Mahasiswa))
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-09-09 15:07:36 --> Error: Class "App\Models\MahasiswaModel" not found
+[Method: GET, Route: mahasiswa]
+in APPPATH\Controllers\Mahasiswa.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Mahasiswa->display()
+ 2 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Mahasiswa))
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-09-09 15:07:36 --> Error: Class "App\Models\MahasiswaModel" not found
+[Method: GET, Route: mahasiswa]
+in APPPATH\Controllers\Mahasiswa.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Mahasiswa->display()
+ 2 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Mahasiswa))
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-09-09 15:07:36 --> Error: Class "App\Models\MahasiswaModel" not found
+[Method: GET, Route: mahasiswa]
+in APPPATH\Controllers\Mahasiswa.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Mahasiswa->display()
+ 2 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Mahasiswa))
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-09-09 15:07:36 --> Error: Class "App\Models\MahasiswaModel" not found
+[Method: GET, Route: mahasiswa]
+in APPPATH\Controllers\Mahasiswa.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Mahasiswa->display()
+ 2 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Mahasiswa))
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-09-09 15:08:14 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "welcome.php"
+[Method: GET, Route: /]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('welcome.php')
+ 2 SYSTEMPATH\Common.php(1167): CodeIgniter\View\View->render('welcome', [], true)
+ 3 APPPATH\Controllers\Home.php(11): view('welcome')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->index()
+ 5 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-09-09 15:08:19 --> Error: Class "App\Models\MahasiswaModel" not found
+[Method: GET, Route: mahasiswa]
+in APPPATH\Controllers\Mahasiswa.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Mahasiswa->display()
+ 2 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Mahasiswa))
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-09-09 15:08:23 --> Error: Class "App\Models\MahasiswaModel" not found
+[Method: GET, Route: mahasiswa]
+in APPPATH\Controllers\Mahasiswa.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Mahasiswa->display()
+ 2 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Mahasiswa))
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-09-09 15:08:23 --> Error: Class "App\Models\MahasiswaModel" not found
+[Method: GET, Route: mahasiswa]
+in APPPATH\Controllers\Mahasiswa.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Mahasiswa->display()
+ 2 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Mahasiswa))
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-09-09 15:08:23 --> Error: Class "App\Models\MahasiswaModel" not found
+[Method: GET, Route: mahasiswa]
+in APPPATH\Controllers\Mahasiswa.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Mahasiswa->display()
+ 2 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Mahasiswa))
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-09-09 15:08:23 --> Error: Class "App\Models\MahasiswaModel" not found
+[Method: GET, Route: mahasiswa]
+in APPPATH\Controllers\Mahasiswa.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Mahasiswa->display()
+ 2 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Mahasiswa))
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-09-09 15:09:48 --> Error: Class "App\Models\MahasiswaModel" not found
+[Method: GET, Route: mahasiswa]
+in APPPATH\Controllers\Mahasiswa.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Mahasiswa->display()
+ 2 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Mahasiswa))
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-09-09 15:15:17 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "welcome.php"
+[Method: GET, Route: /]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('welcome.php')
+ 2 SYSTEMPATH\Common.php(1167): CodeIgniter\View\View->render('welcome', [], true)
+ 3 APPPATH\Controllers\Home.php(11): view('welcome')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->index()
+ 5 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-09-09 15:15:29 --> Error: Class "App\Models\MahasiswaModel" not found
+[Method: GET, Route: mahasiswa]
+in APPPATH\Controllers\Mahasiswa.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Mahasiswa->display()
+ 2 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Mahasiswa))
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ERROR - 2025-09-09 15:19:11 --> Error connecting to the database: mysqli_sql_exception: Access denied for user ''@'localhost' (using password: NO) in C:\xampp\htdocs\CI4_1\system\Database\MySQLi\Connection.php:201
+Stack trace:
+#0 C:\xampp\htdocs\CI4_1\system\Database\MySQLi\Connection.php(201): mysqli->real_connect('localhost', '', Object(SensitiveParameterValue), 'mahasiswa', 3306, '', 0)
+#1 C:\xampp\htdocs\CI4_1\system\Database\BaseConnection.php(419): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\xampp\htdocs\CI4_1\system\Database\BaseConnection.php(614): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\xampp\htdocs\CI4_1\app\Models\MahasiswaModel.php(13): CodeIgniter\Database\BaseConnection->query('SELECT * FROM b...')
+#4 C:\xampp\htdocs\CI4_1\app\Controllers\Mahasiswa.php(14): App\Models\MahasiswaModel->getMahasiswa()
+#5 C:\xampp\htdocs\CI4_1\system\CodeIgniter.php(933): App\Controllers\Mahasiswa->display()
+#6 C:\xampp\htdocs\CI4_1\system\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Mahasiswa))
+#7 C:\xampp\htdocs\CI4_1\system\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\CI4_1\system\Boot.php(363): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\CI4_1\system\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#10 C:\xampp\htdocs\CI4_1\public\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#11 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: Access denied for user ''@'localhost' (using password: NO) in C:\xampp\htdocs\CI4_1\system\Database\MySQLi\Connection.php:246
+Stack trace:
+#0 C:\xampp\htdocs\CI4_1\system\Database\BaseConnection.php(419): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\xampp\htdocs\CI4_1\system\Database\BaseConnection.php(614): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\xampp\htdocs\CI4_1\app\Models\MahasiswaModel.php(13): CodeIgniter\Database\BaseConnection->query('SELECT * FROM b...')
+#3 C:\xampp\htdocs\CI4_1\app\Controllers\Mahasiswa.php(14): App\Models\MahasiswaModel->getMahasiswa()
+#4 C:\xampp\htdocs\CI4_1\system\CodeIgniter.php(933): App\Controllers\Mahasiswa->display()
+#5 C:\xampp\htdocs\CI4_1\system\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Mahasiswa))
+#6 C:\xampp\htdocs\CI4_1\system\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\CI4_1\system\Boot.php(363): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\CI4_1\system\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#9 C:\xampp\htdocs\CI4_1\public\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#10 {main}
+CRITICAL - 2025-09-09 15:19:11 --> CodeIgniter\Database\Exceptions\DatabaseException: Unable to connect to the database.
+Main connection [MySQLi]: Access denied for user ''@'localhost' (using password: NO)
+[Method: GET, Route: mahasiswa]
+in SYSTEMPATH\Database\BaseConnection.php on line 465.
+ 1 SYSTEMPATH\Database\BaseConnection.php(614): CodeIgniter\Database\BaseConnection->initialize()
+ 2 APPPATH\Models\MahasiswaModel.php(13): CodeIgniter\Database\BaseConnection->query('SELECT * FROM biodata')
+ 3 APPPATH\Controllers\Mahasiswa.php(14): App\Models\MahasiswaModel->getMahasiswa()
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Mahasiswa->display()
+ 5 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Mahasiswa))
+ 6 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ERROR - 2025-09-09 15:22:38 --> Error connecting to the database: mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: YES) in C:\xampp\htdocs\CI4_1\system\Database\MySQLi\Connection.php:201
+Stack trace:
+#0 C:\xampp\htdocs\CI4_1\system\Database\MySQLi\Connection.php(201): mysqli->real_connect('localhost', 'root', Object(SensitiveParameterValue), 'mahasiswa', 3306, '', 0)
+#1 C:\xampp\htdocs\CI4_1\system\Database\BaseConnection.php(419): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\xampp\htdocs\CI4_1\system\Database\BaseConnection.php(614): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\xampp\htdocs\CI4_1\app\Models\MahasiswaModel.php(13): CodeIgniter\Database\BaseConnection->query('SELECT * FROM b...')
+#4 C:\xampp\htdocs\CI4_1\app\Controllers\Mahasiswa.php(14): App\Models\MahasiswaModel->getMahasiswa()
+#5 C:\xampp\htdocs\CI4_1\system\CodeIgniter.php(933): App\Controllers\Mahasiswa->display()
+#6 C:\xampp\htdocs\CI4_1\system\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Mahasiswa))
+#7 C:\xampp\htdocs\CI4_1\system\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\CI4_1\system\Boot.php(363): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\CI4_1\system\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#10 C:\xampp\htdocs\CI4_1\public\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#11 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: Access denied for user '****'@'localhost' (using password: YES) in C:\xampp\htdocs\CI4_1\system\Database\MySQLi\Connection.php:246
+Stack trace:
+#0 C:\xampp\htdocs\CI4_1\system\Database\BaseConnection.php(419): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\xampp\htdocs\CI4_1\system\Database\BaseConnection.php(614): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\xampp\htdocs\CI4_1\app\Models\MahasiswaModel.php(13): CodeIgniter\Database\BaseConnection->query('SELECT * FROM b...')
+#3 C:\xampp\htdocs\CI4_1\app\Controllers\Mahasiswa.php(14): App\Models\MahasiswaModel->getMahasiswa()
+#4 C:\xampp\htdocs\CI4_1\system\CodeIgniter.php(933): App\Controllers\Mahasiswa->display()
+#5 C:\xampp\htdocs\CI4_1\system\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Mahasiswa))
+#6 C:\xampp\htdocs\CI4_1\system\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\CI4_1\system\Boot.php(363): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\CI4_1\system\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#9 C:\xampp\htdocs\CI4_1\public\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#10 {main}
+CRITICAL - 2025-09-09 15:22:38 --> CodeIgniter\Database\Exceptions\DatabaseException: Unable to connect to the database.
+Main connection [MySQLi]: Access denied for user '****'@'localhost' (using password: YES)
+[Method: GET, Route: mahasiswa]
+in SYSTEMPATH\Database\BaseConnection.php on line 465.
+ 1 SYSTEMPATH\Database\BaseConnection.php(614): CodeIgniter\Database\BaseConnection->initialize()
+ 2 APPPATH\Models\MahasiswaModel.php(13): CodeIgniter\Database\BaseConnection->query('SELECT * FROM biodata')
+ 3 APPPATH\Controllers\Mahasiswa.php(14): App\Models\MahasiswaModel->getMahasiswa()
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Mahasiswa->display()
+ 5 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Mahasiswa))
+ 6 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ERROR - 2025-09-09 15:22:41 --> Error connecting to the database: mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: YES) in C:\xampp\htdocs\CI4_1\system\Database\MySQLi\Connection.php:201
+Stack trace:
+#0 C:\xampp\htdocs\CI4_1\system\Database\MySQLi\Connection.php(201): mysqli->real_connect('localhost', 'root', Object(SensitiveParameterValue), 'mahasiswa', 3306, '', 0)
+#1 C:\xampp\htdocs\CI4_1\system\Database\BaseConnection.php(419): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\xampp\htdocs\CI4_1\system\Database\BaseConnection.php(614): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\xampp\htdocs\CI4_1\app\Models\MahasiswaModel.php(13): CodeIgniter\Database\BaseConnection->query('SELECT * FROM b...')
+#4 C:\xampp\htdocs\CI4_1\app\Controllers\Mahasiswa.php(14): App\Models\MahasiswaModel->getMahasiswa()
+#5 C:\xampp\htdocs\CI4_1\system\CodeIgniter.php(933): App\Controllers\Mahasiswa->display()
+#6 C:\xampp\htdocs\CI4_1\system\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Mahasiswa))
+#7 C:\xampp\htdocs\CI4_1\system\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\CI4_1\system\Boot.php(363): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\CI4_1\system\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#10 C:\xampp\htdocs\CI4_1\public\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#11 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: Access denied for user '****'@'localhost' (using password: YES) in C:\xampp\htdocs\CI4_1\system\Database\MySQLi\Connection.php:246
+Stack trace:
+#0 C:\xampp\htdocs\CI4_1\system\Database\BaseConnection.php(419): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\xampp\htdocs\CI4_1\system\Database\BaseConnection.php(614): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\xampp\htdocs\CI4_1\app\Models\MahasiswaModel.php(13): CodeIgniter\Database\BaseConnection->query('SELECT * FROM b...')
+#3 C:\xampp\htdocs\CI4_1\app\Controllers\Mahasiswa.php(14): App\Models\MahasiswaModel->getMahasiswa()
+#4 C:\xampp\htdocs\CI4_1\system\CodeIgniter.php(933): App\Controllers\Mahasiswa->display()
+#5 C:\xampp\htdocs\CI4_1\system\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Mahasiswa))
+#6 C:\xampp\htdocs\CI4_1\system\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\CI4_1\system\Boot.php(363): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\CI4_1\system\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#9 C:\xampp\htdocs\CI4_1\public\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#10 {main}
+CRITICAL - 2025-09-09 15:22:41 --> CodeIgniter\Database\Exceptions\DatabaseException: Unable to connect to the database.
+Main connection [MySQLi]: Access denied for user '****'@'localhost' (using password: YES)
+[Method: GET, Route: mahasiswa]
+in SYSTEMPATH\Database\BaseConnection.php on line 465.
+ 1 SYSTEMPATH\Database\BaseConnection.php(614): CodeIgniter\Database\BaseConnection->initialize()
+ 2 APPPATH\Models\MahasiswaModel.php(13): CodeIgniter\Database\BaseConnection->query('SELECT * FROM biodata')
+ 3 APPPATH\Controllers\Mahasiswa.php(14): App\Models\MahasiswaModel->getMahasiswa()
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Mahasiswa->display()
+ 5 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Mahasiswa))
+ 6 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ERROR - 2025-09-09 15:22:42 --> Error connecting to the database: mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: YES) in C:\xampp\htdocs\CI4_1\system\Database\MySQLi\Connection.php:201
+Stack trace:
+#0 C:\xampp\htdocs\CI4_1\system\Database\MySQLi\Connection.php(201): mysqli->real_connect('localhost', 'root', Object(SensitiveParameterValue), 'mahasiswa', 3306, '', 0)
+#1 C:\xampp\htdocs\CI4_1\system\Database\BaseConnection.php(419): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\xampp\htdocs\CI4_1\system\Database\BaseConnection.php(614): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\xampp\htdocs\CI4_1\app\Models\MahasiswaModel.php(13): CodeIgniter\Database\BaseConnection->query('SELECT * FROM b...')
+#4 C:\xampp\htdocs\CI4_1\app\Controllers\Mahasiswa.php(14): App\Models\MahasiswaModel->getMahasiswa()
+#5 C:\xampp\htdocs\CI4_1\system\CodeIgniter.php(933): App\Controllers\Mahasiswa->display()
+#6 C:\xampp\htdocs\CI4_1\system\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Mahasiswa))
+#7 C:\xampp\htdocs\CI4_1\system\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\CI4_1\system\Boot.php(363): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\CI4_1\system\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#10 C:\xampp\htdocs\CI4_1\public\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#11 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: Access denied for user '****'@'localhost' (using password: YES) in C:\xampp\htdocs\CI4_1\system\Database\MySQLi\Connection.php:246
+Stack trace:
+#0 C:\xampp\htdocs\CI4_1\system\Database\BaseConnection.php(419): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\xampp\htdocs\CI4_1\system\Database\BaseConnection.php(614): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\xampp\htdocs\CI4_1\app\Models\MahasiswaModel.php(13): CodeIgniter\Database\BaseConnection->query('SELECT * FROM b...')
+#3 C:\xampp\htdocs\CI4_1\app\Controllers\Mahasiswa.php(14): App\Models\MahasiswaModel->getMahasiswa()
+#4 C:\xampp\htdocs\CI4_1\system\CodeIgniter.php(933): App\Controllers\Mahasiswa->display()
+#5 C:\xampp\htdocs\CI4_1\system\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Mahasiswa))
+#6 C:\xampp\htdocs\CI4_1\system\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\CI4_1\system\Boot.php(363): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\CI4_1\system\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#9 C:\xampp\htdocs\CI4_1\public\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#10 {main}
+CRITICAL - 2025-09-09 15:22:42 --> CodeIgniter\Database\Exceptions\DatabaseException: Unable to connect to the database.
+Main connection [MySQLi]: Access denied for user '****'@'localhost' (using password: YES)
+[Method: GET, Route: mahasiswa]
+in SYSTEMPATH\Database\BaseConnection.php on line 465.
+ 1 SYSTEMPATH\Database\BaseConnection.php(614): CodeIgniter\Database\BaseConnection->initialize()
+ 2 APPPATH\Models\MahasiswaModel.php(13): CodeIgniter\Database\BaseConnection->query('SELECT * FROM biodata')
+ 3 APPPATH\Controllers\Mahasiswa.php(14): App\Models\MahasiswaModel->getMahasiswa()
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Mahasiswa->display()
+ 5 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Mahasiswa))
+ 6 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ERROR - 2025-09-09 15:24:29 --> Error connecting to the database: mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: YES) in C:\xampp\htdocs\CI4_1\system\Database\MySQLi\Connection.php:201
+Stack trace:
+#0 C:\xampp\htdocs\CI4_1\system\Database\MySQLi\Connection.php(201): mysqli->real_connect('localhost', 'root', Object(SensitiveParameterValue), 'mahasiswa', 3306, '', 0)
+#1 C:\xampp\htdocs\CI4_1\system\Database\BaseConnection.php(419): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\xampp\htdocs\CI4_1\system\Database\BaseConnection.php(614): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\xampp\htdocs\CI4_1\app\Models\MahasiswaModel.php(13): CodeIgniter\Database\BaseConnection->query('SELECT * FROM b...')
+#4 C:\xampp\htdocs\CI4_1\app\Controllers\Mahasiswa.php(14): App\Models\MahasiswaModel->getMahasiswa()
+#5 C:\xampp\htdocs\CI4_1\system\CodeIgniter.php(933): App\Controllers\Mahasiswa->display()
+#6 C:\xampp\htdocs\CI4_1\system\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Mahasiswa))
+#7 C:\xampp\htdocs\CI4_1\system\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\CI4_1\system\Boot.php(363): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\CI4_1\system\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#10 C:\xampp\htdocs\CI4_1\public\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#11 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: Access denied for user '****'@'localhost' (using password: YES) in C:\xampp\htdocs\CI4_1\system\Database\MySQLi\Connection.php:246
+Stack trace:
+#0 C:\xampp\htdocs\CI4_1\system\Database\BaseConnection.php(419): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\xampp\htdocs\CI4_1\system\Database\BaseConnection.php(614): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\xampp\htdocs\CI4_1\app\Models\MahasiswaModel.php(13): CodeIgniter\Database\BaseConnection->query('SELECT * FROM b...')
+#3 C:\xampp\htdocs\CI4_1\app\Controllers\Mahasiswa.php(14): App\Models\MahasiswaModel->getMahasiswa()
+#4 C:\xampp\htdocs\CI4_1\system\CodeIgniter.php(933): App\Controllers\Mahasiswa->display()
+#5 C:\xampp\htdocs\CI4_1\system\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Mahasiswa))
+#6 C:\xampp\htdocs\CI4_1\system\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\CI4_1\system\Boot.php(363): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\CI4_1\system\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#9 C:\xampp\htdocs\CI4_1\public\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#10 {main}
+CRITICAL - 2025-09-09 15:24:29 --> CodeIgniter\Database\Exceptions\DatabaseException: Unable to connect to the database.
+Main connection [MySQLi]: Access denied for user '****'@'localhost' (using password: YES)
+[Method: GET, Route: mahasiswa]
+in SYSTEMPATH\Database\BaseConnection.php on line 465.
+ 1 SYSTEMPATH\Database\BaseConnection.php(614): CodeIgniter\Database\BaseConnection->initialize()
+ 2 APPPATH\Models\MahasiswaModel.php(13): CodeIgniter\Database\BaseConnection->query('SELECT * FROM biodata')
+ 3 APPPATH\Controllers\Mahasiswa.php(14): App\Models\MahasiswaModel->getMahasiswa()
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Mahasiswa->display()
+ 5 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Mahasiswa))
+ 6 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ERROR - 2025-09-09 15:24:29 --> Error connecting to the database: mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: YES) in C:\xampp\htdocs\CI4_1\system\Database\MySQLi\Connection.php:201
+Stack trace:
+#0 C:\xampp\htdocs\CI4_1\system\Database\MySQLi\Connection.php(201): mysqli->real_connect('localhost', 'root', Object(SensitiveParameterValue), 'mahasiswa', 3306, '', 0)
+#1 C:\xampp\htdocs\CI4_1\system\Database\BaseConnection.php(419): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\xampp\htdocs\CI4_1\system\Database\BaseConnection.php(614): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\xampp\htdocs\CI4_1\app\Models\MahasiswaModel.php(13): CodeIgniter\Database\BaseConnection->query('SELECT * FROM b...')
+#4 C:\xampp\htdocs\CI4_1\app\Controllers\Mahasiswa.php(14): App\Models\MahasiswaModel->getMahasiswa()
+#5 C:\xampp\htdocs\CI4_1\system\CodeIgniter.php(933): App\Controllers\Mahasiswa->display()
+#6 C:\xampp\htdocs\CI4_1\system\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Mahasiswa))
+#7 C:\xampp\htdocs\CI4_1\system\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\CI4_1\system\Boot.php(363): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\CI4_1\system\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#10 C:\xampp\htdocs\CI4_1\public\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#11 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: Access denied for user '****'@'localhost' (using password: YES) in C:\xampp\htdocs\CI4_1\system\Database\MySQLi\Connection.php:246
+Stack trace:
+#0 C:\xampp\htdocs\CI4_1\system\Database\BaseConnection.php(419): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\xampp\htdocs\CI4_1\system\Database\BaseConnection.php(614): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\xampp\htdocs\CI4_1\app\Models\MahasiswaModel.php(13): CodeIgniter\Database\BaseConnection->query('SELECT * FROM b...')
+#3 C:\xampp\htdocs\CI4_1\app\Controllers\Mahasiswa.php(14): App\Models\MahasiswaModel->getMahasiswa()
+#4 C:\xampp\htdocs\CI4_1\system\CodeIgniter.php(933): App\Controllers\Mahasiswa->display()
+#5 C:\xampp\htdocs\CI4_1\system\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Mahasiswa))
+#6 C:\xampp\htdocs\CI4_1\system\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\CI4_1\system\Boot.php(363): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\CI4_1\system\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#9 C:\xampp\htdocs\CI4_1\public\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#10 {main}
+CRITICAL - 2025-09-09 15:24:29 --> CodeIgniter\Database\Exceptions\DatabaseException: Unable to connect to the database.
+Main connection [MySQLi]: Access denied for user '****'@'localhost' (using password: YES)
+[Method: GET, Route: mahasiswa]
+in SYSTEMPATH\Database\BaseConnection.php on line 465.
+ 1 SYSTEMPATH\Database\BaseConnection.php(614): CodeIgniter\Database\BaseConnection->initialize()
+ 2 APPPATH\Models\MahasiswaModel.php(13): CodeIgniter\Database\BaseConnection->query('SELECT * FROM biodata')
+ 3 APPPATH\Controllers\Mahasiswa.php(14): App\Models\MahasiswaModel->getMahasiswa()
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Mahasiswa->display()
+ 5 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Mahasiswa))
+ 6 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ERROR - 2025-09-09 15:24:30 --> Error connecting to the database: mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: YES) in C:\xampp\htdocs\CI4_1\system\Database\MySQLi\Connection.php:201
+Stack trace:
+#0 C:\xampp\htdocs\CI4_1\system\Database\MySQLi\Connection.php(201): mysqli->real_connect('localhost', 'root', Object(SensitiveParameterValue), 'mahasiswa', 3306, '', 0)
+#1 C:\xampp\htdocs\CI4_1\system\Database\BaseConnection.php(419): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\xampp\htdocs\CI4_1\system\Database\BaseConnection.php(614): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\xampp\htdocs\CI4_1\app\Models\MahasiswaModel.php(13): CodeIgniter\Database\BaseConnection->query('SELECT * FROM b...')
+#4 C:\xampp\htdocs\CI4_1\app\Controllers\Mahasiswa.php(14): App\Models\MahasiswaModel->getMahasiswa()
+#5 C:\xampp\htdocs\CI4_1\system\CodeIgniter.php(933): App\Controllers\Mahasiswa->display()
+#6 C:\xampp\htdocs\CI4_1\system\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Mahasiswa))
+#7 C:\xampp\htdocs\CI4_1\system\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\CI4_1\system\Boot.php(363): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\CI4_1\system\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#10 C:\xampp\htdocs\CI4_1\public\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#11 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: Access denied for user '****'@'localhost' (using password: YES) in C:\xampp\htdocs\CI4_1\system\Database\MySQLi\Connection.php:246
+Stack trace:
+#0 C:\xampp\htdocs\CI4_1\system\Database\BaseConnection.php(419): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\xampp\htdocs\CI4_1\system\Database\BaseConnection.php(614): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\xampp\htdocs\CI4_1\app\Models\MahasiswaModel.php(13): CodeIgniter\Database\BaseConnection->query('SELECT * FROM b...')
+#3 C:\xampp\htdocs\CI4_1\app\Controllers\Mahasiswa.php(14): App\Models\MahasiswaModel->getMahasiswa()
+#4 C:\xampp\htdocs\CI4_1\system\CodeIgniter.php(933): App\Controllers\Mahasiswa->display()
+#5 C:\xampp\htdocs\CI4_1\system\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Mahasiswa))
+#6 C:\xampp\htdocs\CI4_1\system\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\CI4_1\system\Boot.php(363): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\CI4_1\system\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#9 C:\xampp\htdocs\CI4_1\public\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#10 {main}
+CRITICAL - 2025-09-09 15:24:30 --> CodeIgniter\Database\Exceptions\DatabaseException: Unable to connect to the database.
+Main connection [MySQLi]: Access denied for user '****'@'localhost' (using password: YES)
+[Method: GET, Route: mahasiswa]
+in SYSTEMPATH\Database\BaseConnection.php on line 465.
+ 1 SYSTEMPATH\Database\BaseConnection.php(614): CodeIgniter\Database\BaseConnection->initialize()
+ 2 APPPATH\Models\MahasiswaModel.php(13): CodeIgniter\Database\BaseConnection->query('SELECT * FROM biodata')
+ 3 APPPATH\Controllers\Mahasiswa.php(14): App\Models\MahasiswaModel->getMahasiswa()
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Mahasiswa->display()
+ 5 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Mahasiswa))
+ 6 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ERROR - 2025-09-09 15:24:30 --> Error connecting to the database: mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: YES) in C:\xampp\htdocs\CI4_1\system\Database\MySQLi\Connection.php:201
+Stack trace:
+#0 C:\xampp\htdocs\CI4_1\system\Database\MySQLi\Connection.php(201): mysqli->real_connect('localhost', 'root', Object(SensitiveParameterValue), 'mahasiswa', 3306, '', 0)
+#1 C:\xampp\htdocs\CI4_1\system\Database\BaseConnection.php(419): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\xampp\htdocs\CI4_1\system\Database\BaseConnection.php(614): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\xampp\htdocs\CI4_1\app\Models\MahasiswaModel.php(13): CodeIgniter\Database\BaseConnection->query('SELECT * FROM b...')
+#4 C:\xampp\htdocs\CI4_1\app\Controllers\Mahasiswa.php(14): App\Models\MahasiswaModel->getMahasiswa()
+#5 C:\xampp\htdocs\CI4_1\system\CodeIgniter.php(933): App\Controllers\Mahasiswa->display()
+#6 C:\xampp\htdocs\CI4_1\system\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Mahasiswa))
+#7 C:\xampp\htdocs\CI4_1\system\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\CI4_1\system\Boot.php(363): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\CI4_1\system\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#10 C:\xampp\htdocs\CI4_1\public\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#11 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: Access denied for user '****'@'localhost' (using password: YES) in C:\xampp\htdocs\CI4_1\system\Database\MySQLi\Connection.php:246
+Stack trace:
+#0 C:\xampp\htdocs\CI4_1\system\Database\BaseConnection.php(419): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\xampp\htdocs\CI4_1\system\Database\BaseConnection.php(614): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\xampp\htdocs\CI4_1\app\Models\MahasiswaModel.php(13): CodeIgniter\Database\BaseConnection->query('SELECT * FROM b...')
+#3 C:\xampp\htdocs\CI4_1\app\Controllers\Mahasiswa.php(14): App\Models\MahasiswaModel->getMahasiswa()
+#4 C:\xampp\htdocs\CI4_1\system\CodeIgniter.php(933): App\Controllers\Mahasiswa->display()
+#5 C:\xampp\htdocs\CI4_1\system\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Mahasiswa))
+#6 C:\xampp\htdocs\CI4_1\system\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\CI4_1\system\Boot.php(363): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\CI4_1\system\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#9 C:\xampp\htdocs\CI4_1\public\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#10 {main}
+CRITICAL - 2025-09-09 15:24:30 --> CodeIgniter\Database\Exceptions\DatabaseException: Unable to connect to the database.
+Main connection [MySQLi]: Access denied for user '****'@'localhost' (using password: YES)
+[Method: GET, Route: mahasiswa]
+in SYSTEMPATH\Database\BaseConnection.php on line 465.
+ 1 SYSTEMPATH\Database\BaseConnection.php(614): CodeIgniter\Database\BaseConnection->initialize()
+ 2 APPPATH\Models\MahasiswaModel.php(13): CodeIgniter\Database\BaseConnection->query('SELECT * FROM biodata')
+ 3 APPPATH\Controllers\Mahasiswa.php(14): App\Models\MahasiswaModel->getMahasiswa()
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Mahasiswa->display()
+ 5 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Mahasiswa))
+ 6 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ERROR - 2025-09-09 15:24:31 --> Error connecting to the database: mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: YES) in C:\xampp\htdocs\CI4_1\system\Database\MySQLi\Connection.php:201
+Stack trace:
+#0 C:\xampp\htdocs\CI4_1\system\Database\MySQLi\Connection.php(201): mysqli->real_connect('localhost', 'root', Object(SensitiveParameterValue), 'mahasiswa', 3306, '', 0)
+#1 C:\xampp\htdocs\CI4_1\system\Database\BaseConnection.php(419): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\xampp\htdocs\CI4_1\system\Database\BaseConnection.php(614): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\xampp\htdocs\CI4_1\app\Models\MahasiswaModel.php(13): CodeIgniter\Database\BaseConnection->query('SELECT * FROM b...')
+#4 C:\xampp\htdocs\CI4_1\app\Controllers\Mahasiswa.php(14): App\Models\MahasiswaModel->getMahasiswa()
+#5 C:\xampp\htdocs\CI4_1\system\CodeIgniter.php(933): App\Controllers\Mahasiswa->display()
+#6 C:\xampp\htdocs\CI4_1\system\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Mahasiswa))
+#7 C:\xampp\htdocs\CI4_1\system\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\CI4_1\system\Boot.php(363): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\CI4_1\system\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#10 C:\xampp\htdocs\CI4_1\public\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#11 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: Access denied for user '****'@'localhost' (using password: YES) in C:\xampp\htdocs\CI4_1\system\Database\MySQLi\Connection.php:246
+Stack trace:
+#0 C:\xampp\htdocs\CI4_1\system\Database\BaseConnection.php(419): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\xampp\htdocs\CI4_1\system\Database\BaseConnection.php(614): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\xampp\htdocs\CI4_1\app\Models\MahasiswaModel.php(13): CodeIgniter\Database\BaseConnection->query('SELECT * FROM b...')
+#3 C:\xampp\htdocs\CI4_1\app\Controllers\Mahasiswa.php(14): App\Models\MahasiswaModel->getMahasiswa()
+#4 C:\xampp\htdocs\CI4_1\system\CodeIgniter.php(933): App\Controllers\Mahasiswa->display()
+#5 C:\xampp\htdocs\CI4_1\system\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Mahasiswa))
+#6 C:\xampp\htdocs\CI4_1\system\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\CI4_1\system\Boot.php(363): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\CI4_1\system\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#9 C:\xampp\htdocs\CI4_1\public\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#10 {main}
+CRITICAL - 2025-09-09 15:24:31 --> CodeIgniter\Database\Exceptions\DatabaseException: Unable to connect to the database.
+Main connection [MySQLi]: Access denied for user '****'@'localhost' (using password: YES)
+[Method: GET, Route: mahasiswa]
+in SYSTEMPATH\Database\BaseConnection.php on line 465.
+ 1 SYSTEMPATH\Database\BaseConnection.php(614): CodeIgniter\Database\BaseConnection->initialize()
+ 2 APPPATH\Models\MahasiswaModel.php(13): CodeIgniter\Database\BaseConnection->query('SELECT * FROM biodata')
+ 3 APPPATH\Controllers\Mahasiswa.php(14): App\Models\MahasiswaModel->getMahasiswa()
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Mahasiswa->display()
+ 5 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Mahasiswa))
+ 6 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-09-09 15:26:49 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "welcome.php"
+[Method: GET, Route: /]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('welcome.php')
+ 2 SYSTEMPATH\Common.php(1167): CodeIgniter\View\View->render('welcome', [], true)
+ 3 APPPATH\Controllers\Home.php(11): view('welcome')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->index()
+ 5 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ERROR - 2025-09-09 15:26:54 --> Error connecting to the database: mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: YES) in C:\xampp\htdocs\CI4_1\system\Database\MySQLi\Connection.php:201
+Stack trace:
+#0 C:\xampp\htdocs\CI4_1\system\Database\MySQLi\Connection.php(201): mysqli->real_connect('localhost', 'root', Object(SensitiveParameterValue), 'mahasiswa', 3306, '', 0)
+#1 C:\xampp\htdocs\CI4_1\system\Database\BaseConnection.php(419): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\xampp\htdocs\CI4_1\system\Database\BaseConnection.php(614): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\xampp\htdocs\CI4_1\app\Models\MahasiswaModel.php(13): CodeIgniter\Database\BaseConnection->query('SELECT * FROM b...')
+#4 C:\xampp\htdocs\CI4_1\app\Controllers\Mahasiswa.php(14): App\Models\MahasiswaModel->getMahasiswa()
+#5 C:\xampp\htdocs\CI4_1\system\CodeIgniter.php(933): App\Controllers\Mahasiswa->display()
+#6 C:\xampp\htdocs\CI4_1\system\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Mahasiswa))
+#7 C:\xampp\htdocs\CI4_1\system\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\CI4_1\system\Boot.php(363): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\CI4_1\system\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#10 C:\xampp\htdocs\CI4_1\public\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#11 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: Access denied for user '****'@'localhost' (using password: YES) in C:\xampp\htdocs\CI4_1\system\Database\MySQLi\Connection.php:246
+Stack trace:
+#0 C:\xampp\htdocs\CI4_1\system\Database\BaseConnection.php(419): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\xampp\htdocs\CI4_1\system\Database\BaseConnection.php(614): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\xampp\htdocs\CI4_1\app\Models\MahasiswaModel.php(13): CodeIgniter\Database\BaseConnection->query('SELECT * FROM b...')
+#3 C:\xampp\htdocs\CI4_1\app\Controllers\Mahasiswa.php(14): App\Models\MahasiswaModel->getMahasiswa()
+#4 C:\xampp\htdocs\CI4_1\system\CodeIgniter.php(933): App\Controllers\Mahasiswa->display()
+#5 C:\xampp\htdocs\CI4_1\system\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Mahasiswa))
+#6 C:\xampp\htdocs\CI4_1\system\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\CI4_1\system\Boot.php(363): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\CI4_1\system\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#9 C:\xampp\htdocs\CI4_1\public\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#10 {main}
+CRITICAL - 2025-09-09 15:26:54 --> CodeIgniter\Database\Exceptions\DatabaseException: Unable to connect to the database.
+Main connection [MySQLi]: Access denied for user '****'@'localhost' (using password: YES)
+[Method: GET, Route: mahasiswa]
+in SYSTEMPATH\Database\BaseConnection.php on line 465.
+ 1 SYSTEMPATH\Database\BaseConnection.php(614): CodeIgniter\Database\BaseConnection->initialize()
+ 2 APPPATH\Models\MahasiswaModel.php(13): CodeIgniter\Database\BaseConnection->query('SELECT * FROM biodata')
+ 3 APPPATH\Controllers\Mahasiswa.php(14): App\Models\MahasiswaModel->getMahasiswa()
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Mahasiswa->display()
+ 5 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Mahasiswa))
+ 6 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-09-09 15:31:05 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "mahasiswa/display.php"
+[Method: GET, Route: mahasiswa]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('mahasiswa/display.php')
+ 2 SYSTEMPATH\Common.php(1167): CodeIgniter\View\View->render('mahasiswa/display', [], true)
+ 3 APPPATH\Controllers\Mahasiswa.php(16): view('mahasiswa/display', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Mahasiswa->display()
+ 5 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Mahasiswa))
+ 6 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-09-09 15:33:18 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "mahasiswa/display.php"
+[Method: GET, Route: mahasiswa]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('mahasiswa/display.php')
+ 2 SYSTEMPATH\Common.php(1167): CodeIgniter\View\View->render('mahasiswa/display', [], true)
+ 3 APPPATH\Controllers\Mahasiswa.php(16): view('mahasiswa/display', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Mahasiswa->display()
+ 5 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Mahasiswa))
+ 6 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-09-09 15:33:19 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "mahasiswa/display.php"
+[Method: GET, Route: mahasiswa]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('mahasiswa/display.php')
+ 2 SYSTEMPATH\Common.php(1167): CodeIgniter\View\View->render('mahasiswa/display', [], true)
+ 3 APPPATH\Controllers\Mahasiswa.php(16): view('mahasiswa/display', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Mahasiswa->display()
+ 5 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Mahasiswa))
+ 6 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-09-09 15:33:19 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "mahasiswa/display.php"
+[Method: GET, Route: mahasiswa]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('mahasiswa/display.php')
+ 2 SYSTEMPATH\Common.php(1167): CodeIgniter\View\View->render('mahasiswa/display', [], true)
+ 3 APPPATH\Controllers\Mahasiswa.php(16): view('mahasiswa/display', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Mahasiswa->display()
+ 5 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Mahasiswa))
+ 6 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-09-09 15:33:20 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "mahasiswa/display.php"
+[Method: GET, Route: mahasiswa]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('mahasiswa/display.php')
+ 2 SYSTEMPATH\Common.php(1167): CodeIgniter\View\View->render('mahasiswa/display', [], true)
+ 3 APPPATH\Controllers\Mahasiswa.php(16): view('mahasiswa/display', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Mahasiswa->display()
+ 5 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Mahasiswa))
+ 6 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-09-09 15:33:20 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "mahasiswa/display.php"
+[Method: GET, Route: mahasiswa]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('mahasiswa/display.php')
+ 2 SYSTEMPATH\Common.php(1167): CodeIgniter\View\View->render('mahasiswa/display', [], true)
+ 3 APPPATH\Controllers\Mahasiswa.php(16): view('mahasiswa/display', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Mahasiswa->display()
+ 5 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Mahasiswa))
+ 6 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-09-09 15:33:20 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "mahasiswa/display.php"
+[Method: GET, Route: mahasiswa]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('mahasiswa/display.php')
+ 2 SYSTEMPATH\Common.php(1167): CodeIgniter\View\View->render('mahasiswa/display', [], true)
+ 3 APPPATH\Controllers\Mahasiswa.php(16): view('mahasiswa/display', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Mahasiswa->display()
+ 5 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Mahasiswa))
+ 6 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-09-09 15:33:20 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "mahasiswa/display.php"
+[Method: GET, Route: mahasiswa]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('mahasiswa/display.php')
+ 2 SYSTEMPATH\Common.php(1167): CodeIgniter\View\View->render('mahasiswa/display', [], true)
+ 3 APPPATH\Controllers\Mahasiswa.php(16): view('mahasiswa/display', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Mahasiswa->display()
+ 5 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Mahasiswa))
+ 6 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-09-09 15:33:21 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "mahasiswa/display.php"
+[Method: GET, Route: mahasiswa]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('mahasiswa/display.php')
+ 2 SYSTEMPATH\Common.php(1167): CodeIgniter\View\View->render('mahasiswa/display', [], true)
+ 3 APPPATH\Controllers\Mahasiswa.php(16): view('mahasiswa/display', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Mahasiswa->display()
+ 5 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Mahasiswa))
+ 6 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-09-09 15:36:12 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "welcome.php"
+[Method: GET, Route: /]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('welcome.php')
+ 2 SYSTEMPATH\Common.php(1167): CodeIgniter\View\View->render('welcome', [], true)
+ 3 APPPATH\Controllers\Home.php(11): view('welcome')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->index()
+ 5 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-09-09 15:36:24 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "mahasiswa/display.php"
+[Method: GET, Route: mahasiswa]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('mahasiswa/display.php')
+ 2 SYSTEMPATH\Common.php(1167): CodeIgniter\View\View->render('mahasiswa/display', [], true)
+ 3 APPPATH\Controllers\Mahasiswa.php(16): view('mahasiswa/display', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Mahasiswa->display()
+ 5 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Mahasiswa))
+ 6 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-09-09 15:39:54 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "mahasiswa/display.php"
+[Method: GET, Route: mahasiswa]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('mahasiswa/display.php')
+ 2 SYSTEMPATH\Common.php(1167): CodeIgniter\View\View->render('mahasiswa/display', [], true)
+ 3 APPPATH\Controllers\Mahasiswa.php(16): view('mahasiswa/display', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Mahasiswa->display()
+ 5 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Mahasiswa))
+ 6 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-09-09 15:39:55 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "mahasiswa/display.php"
+[Method: GET, Route: mahasiswa]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('mahasiswa/display.php')
+ 2 SYSTEMPATH\Common.php(1167): CodeIgniter\View\View->render('mahasiswa/display', [], true)
+ 3 APPPATH\Controllers\Mahasiswa.php(16): view('mahasiswa/display', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Mahasiswa->display()
+ 5 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Mahasiswa))
+ 6 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-09-09 15:42:13 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "mahasiswa/display.php"
+[Method: GET, Route: mahasiswa]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('mahasiswa/display.php')
+ 2 SYSTEMPATH\Common.php(1167): CodeIgniter\View\View->render('mahasiswa/display', [], true)
+ 3 APPPATH\Controllers\Mahasiswa.php(16): view('mahasiswa/display', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Mahasiswa->display()
+ 5 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Mahasiswa))
+ 6 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-09-09 15:42:15 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "mahasiswa/display.php"
+[Method: GET, Route: mahasiswa]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('mahasiswa/display.php')
+ 2 SYSTEMPATH\Common.php(1167): CodeIgniter\View\View->render('mahasiswa/display', [], true)
+ 3 APPPATH\Controllers\Mahasiswa.php(16): view('mahasiswa/display', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Mahasiswa->display()
+ 5 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Mahasiswa))
+ 6 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-09-09 15:42:16 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "mahasiswa/display.php"
+[Method: GET, Route: mahasiswa]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('mahasiswa/display.php')
+ 2 SYSTEMPATH\Common.php(1167): CodeIgniter\View\View->render('mahasiswa/display', [], true)
+ 3 APPPATH\Controllers\Mahasiswa.php(16): view('mahasiswa/display', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Mahasiswa->display()
+ 5 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Mahasiswa))
+ 6 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-09-09 15:42:16 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "mahasiswa/display.php"
+[Method: GET, Route: mahasiswa]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('mahasiswa/display.php')
+ 2 SYSTEMPATH\Common.php(1167): CodeIgniter\View\View->render('mahasiswa/display', [], true)
+ 3 APPPATH\Controllers\Mahasiswa.php(16): view('mahasiswa/display', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Mahasiswa->display()
+ 5 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Mahasiswa))
+ 6 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-09-09 15:42:16 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "mahasiswa/display.php"
+[Method: GET, Route: mahasiswa]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('mahasiswa/display.php')
+ 2 SYSTEMPATH\Common.php(1167): CodeIgniter\View\View->render('mahasiswa/display', [], true)
+ 3 APPPATH\Controllers\Mahasiswa.php(16): view('mahasiswa/display', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Mahasiswa->display()
+ 5 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Mahasiswa))
+ 6 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-09-09 15:42:17 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "mahasiswa/display.php"
+[Method: GET, Route: mahasiswa]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('mahasiswa/display.php')
+ 2 SYSTEMPATH\Common.php(1167): CodeIgniter\View\View->render('mahasiswa/display', [], true)
+ 3 APPPATH\Controllers\Mahasiswa.php(16): view('mahasiswa/display', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Mahasiswa->display()
+ 5 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Mahasiswa))
+ 6 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-09-09 15:42:17 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "mahasiswa/display.php"
+[Method: GET, Route: mahasiswa]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('mahasiswa/display.php')
+ 2 SYSTEMPATH\Common.php(1167): CodeIgniter\View\View->render('mahasiswa/display', [], true)
+ 3 APPPATH\Controllers\Mahasiswa.php(16): view('mahasiswa/display', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Mahasiswa->display()
+ 5 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Mahasiswa))
+ 6 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-09-09 15:42:17 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "mahasiswa/display.php"
+[Method: GET, Route: mahasiswa]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('mahasiswa/display.php')
+ 2 SYSTEMPATH\Common.php(1167): CodeIgniter\View\View->render('mahasiswa/display', [], true)
+ 3 APPPATH\Controllers\Mahasiswa.php(16): view('mahasiswa/display', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Mahasiswa->display()
+ 5 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Mahasiswa))
+ 6 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-09-09 15:42:17 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "mahasiswa/display.php"
+[Method: GET, Route: mahasiswa]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('mahasiswa/display.php')
+ 2 SYSTEMPATH\Common.php(1167): CodeIgniter\View\View->render('mahasiswa/display', [], true)
+ 3 APPPATH\Controllers\Mahasiswa.php(16): view('mahasiswa/display', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Mahasiswa->display()
+ 5 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Mahasiswa))
+ 6 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-09-09 15:42:17 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "mahasiswa/display.php"
+[Method: GET, Route: mahasiswa]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('mahasiswa/display.php')
+ 2 SYSTEMPATH\Common.php(1167): CodeIgniter\View\View->render('mahasiswa/display', [], true)
+ 3 APPPATH\Controllers\Mahasiswa.php(16): view('mahasiswa/display', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Mahasiswa->display()
+ 5 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Mahasiswa))
+ 6 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-09-09 15:42:18 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "mahasiswa/display.php"
+[Method: GET, Route: mahasiswa]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('mahasiswa/display.php')
+ 2 SYSTEMPATH\Common.php(1167): CodeIgniter\View\View->render('mahasiswa/display', [], true)
+ 3 APPPATH\Controllers\Mahasiswa.php(16): view('mahasiswa/display', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Mahasiswa->display()
+ 5 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Mahasiswa))
+ 6 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-09-09 15:42:18 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "mahasiswa/display.php"
+[Method: GET, Route: mahasiswa]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('mahasiswa/display.php')
+ 2 SYSTEMPATH\Common.php(1167): CodeIgniter\View\View->render('mahasiswa/display', [], true)
+ 3 APPPATH\Controllers\Mahasiswa.php(16): view('mahasiswa/display', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Mahasiswa->display()
+ 5 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Mahasiswa))
+ 6 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-09-09 15:42:18 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "mahasiswa/display.php"
+[Method: GET, Route: mahasiswa]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('mahasiswa/display.php')
+ 2 SYSTEMPATH\Common.php(1167): CodeIgniter\View\View->render('mahasiswa/display', [], true)
+ 3 APPPATH\Controllers\Mahasiswa.php(16): view('mahasiswa/display', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Mahasiswa->display()
+ 5 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Mahasiswa))
+ 6 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-09-09 15:42:18 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "mahasiswa/display.php"
+[Method: GET, Route: mahasiswa]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('mahasiswa/display.php')
+ 2 SYSTEMPATH\Common.php(1167): CodeIgniter\View\View->render('mahasiswa/display', [], true)
+ 3 APPPATH\Controllers\Mahasiswa.php(16): view('mahasiswa/display', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Mahasiswa->display()
+ 5 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Mahasiswa))
+ 6 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-09-09 15:42:18 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "mahasiswa/display.php"
+[Method: GET, Route: mahasiswa]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('mahasiswa/display.php')
+ 2 SYSTEMPATH\Common.php(1167): CodeIgniter\View\View->render('mahasiswa/display', [], true)
+ 3 APPPATH\Controllers\Mahasiswa.php(16): view('mahasiswa/display', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Mahasiswa->display()
+ 5 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Mahasiswa))
+ 6 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-09-09 15:42:19 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "mahasiswa/display.php"
+[Method: GET, Route: mahasiswa]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('mahasiswa/display.php')
+ 2 SYSTEMPATH\Common.php(1167): CodeIgniter\View\View->render('mahasiswa/display', [], true)
+ 3 APPPATH\Controllers\Mahasiswa.php(16): view('mahasiswa/display', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Mahasiswa->display()
+ 5 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Mahasiswa))
+ 6 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-09-09 15:42:19 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "mahasiswa/display.php"
+[Method: GET, Route: mahasiswa]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('mahasiswa/display.php')
+ 2 SYSTEMPATH\Common.php(1167): CodeIgniter\View\View->render('mahasiswa/display', [], true)
+ 3 APPPATH\Controllers\Mahasiswa.php(16): view('mahasiswa/display', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Mahasiswa->display()
+ 5 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Mahasiswa))
+ 6 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-09-09 15:42:19 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "mahasiswa/display.php"
+[Method: GET, Route: mahasiswa]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('mahasiswa/display.php')
+ 2 SYSTEMPATH\Common.php(1167): CodeIgniter\View\View->render('mahasiswa/display', [], true)
+ 3 APPPATH\Controllers\Mahasiswa.php(16): view('mahasiswa/display', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Mahasiswa->display()
+ 5 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Mahasiswa))
+ 6 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-09-09 15:42:19 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "mahasiswa/display.php"
+[Method: GET, Route: mahasiswa]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('mahasiswa/display.php')
+ 2 SYSTEMPATH\Common.php(1167): CodeIgniter\View\View->render('mahasiswa/display', [], true)
+ 3 APPPATH\Controllers\Mahasiswa.php(16): view('mahasiswa/display', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Mahasiswa->display()
+ 5 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Mahasiswa))
+ 6 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-09-09 15:42:20 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "mahasiswa/display.php"
+[Method: GET, Route: mahasiswa]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('mahasiswa/display.php')
+ 2 SYSTEMPATH\Common.php(1167): CodeIgniter\View\View->render('mahasiswa/display', [], true)
+ 3 APPPATH\Controllers\Mahasiswa.php(16): view('mahasiswa/display', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Mahasiswa->display()
+ 5 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Mahasiswa))
+ 6 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-09-09 15:43:04 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "mahasiswa/display.php"
+[Method: GET, Route: mahasiswa]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('mahasiswa/display.php')
+ 2 SYSTEMPATH\Common.php(1167): CodeIgniter\View\View->render('mahasiswa/display', [], true)
+ 3 APPPATH\Controllers\Mahasiswa.php(16): view('mahasiswa/display', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Mahasiswa->display()
+ 5 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Mahasiswa))
+ 6 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-09-09 15:43:04 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "mahasiswa/display.php"
+[Method: GET, Route: mahasiswa]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('mahasiswa/display.php')
+ 2 SYSTEMPATH\Common.php(1167): CodeIgniter\View\View->render('mahasiswa/display', [], true)
+ 3 APPPATH\Controllers\Mahasiswa.php(16): view('mahasiswa/display', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Mahasiswa->display()
+ 5 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Mahasiswa))
+ 6 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-09-09 15:43:14 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "mahasiswa/display.php"
+[Method: GET, Route: mahasiswa]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('mahasiswa/display.php')
+ 2 SYSTEMPATH\Common.php(1167): CodeIgniter\View\View->render('mahasiswa/display', [], true)
+ 3 APPPATH\Controllers\Mahasiswa.php(16): view('mahasiswa/display', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Mahasiswa->display()
+ 5 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Mahasiswa))
+ 6 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-09-09 15:43:15 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "mahasiswa/display.php"
+[Method: GET, Route: mahasiswa]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('mahasiswa/display.php')
+ 2 SYSTEMPATH\Common.php(1167): CodeIgniter\View\View->render('mahasiswa/display', [], true)
+ 3 APPPATH\Controllers\Mahasiswa.php(16): view('mahasiswa/display', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Mahasiswa->display()
+ 5 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Mahasiswa))
+ 6 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-09-09 15:43:15 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "mahasiswa/display.php"
+[Method: GET, Route: mahasiswa]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('mahasiswa/display.php')
+ 2 SYSTEMPATH\Common.php(1167): CodeIgniter\View\View->render('mahasiswa/display', [], true)
+ 3 APPPATH\Controllers\Mahasiswa.php(16): view('mahasiswa/display', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Mahasiswa->display()
+ 5 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Mahasiswa))
+ 6 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-09-09 15:43:16 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "mahasiswa/display.php"
+[Method: GET, Route: mahasiswa]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('mahasiswa/display.php')
+ 2 SYSTEMPATH\Common.php(1167): CodeIgniter\View\View->render('mahasiswa/display', [], true)
+ 3 APPPATH\Controllers\Mahasiswa.php(16): view('mahasiswa/display', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Mahasiswa->display()
+ 5 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Mahasiswa))
+ 6 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-09-09 15:43:16 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "mahasiswa/display.php"
+[Method: GET, Route: mahasiswa]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('mahasiswa/display.php')
+ 2 SYSTEMPATH\Common.php(1167): CodeIgniter\View\View->render('mahasiswa/display', [], true)
+ 3 APPPATH\Controllers\Mahasiswa.php(16): view('mahasiswa/display', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Mahasiswa->display()
+ 5 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Mahasiswa))
+ 6 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-09-09 15:43:16 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "mahasiswa/display.php"
+[Method: GET, Route: mahasiswa]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('mahasiswa/display.php')
+ 2 SYSTEMPATH\Common.php(1167): CodeIgniter\View\View->render('mahasiswa/display', [], true)
+ 3 APPPATH\Controllers\Mahasiswa.php(16): view('mahasiswa/display', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Mahasiswa->display()
+ 5 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Mahasiswa))
+ 6 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-09-09 15:43:16 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "mahasiswa/display.php"
+[Method: GET, Route: mahasiswa]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('mahasiswa/display.php')
+ 2 SYSTEMPATH\Common.php(1167): CodeIgniter\View\View->render('mahasiswa/display', [], true)
+ 3 APPPATH\Controllers\Mahasiswa.php(16): view('mahasiswa/display', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Mahasiswa->display()
+ 5 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Mahasiswa))
+ 6 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-09-09 15:43:16 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "mahasiswa/display.php"
+[Method: GET, Route: mahasiswa]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('mahasiswa/display.php')
+ 2 SYSTEMPATH\Common.php(1167): CodeIgniter\View\View->render('mahasiswa/display', [], true)
+ 3 APPPATH\Controllers\Mahasiswa.php(16): view('mahasiswa/display', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Mahasiswa->display()
+ 5 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Mahasiswa))
+ 6 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-09-09 15:43:16 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "mahasiswa/display.php"
+[Method: GET, Route: mahasiswa]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('mahasiswa/display.php')
+ 2 SYSTEMPATH\Common.php(1167): CodeIgniter\View\View->render('mahasiswa/display', [], true)
+ 3 APPPATH\Controllers\Mahasiswa.php(16): view('mahasiswa/display', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Mahasiswa->display()
+ 5 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Mahasiswa))
+ 6 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-09-09 15:43:17 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "mahasiswa/display.php"
+[Method: GET, Route: mahasiswa]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('mahasiswa/display.php')
+ 2 SYSTEMPATH\Common.php(1167): CodeIgniter\View\View->render('mahasiswa/display', [], true)
+ 3 APPPATH\Controllers\Mahasiswa.php(16): view('mahasiswa/display', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Mahasiswa->display()
+ 5 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Mahasiswa))
+ 6 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-09-09 15:43:17 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "mahasiswa/display.php"
+[Method: GET, Route: mahasiswa]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('mahasiswa/display.php')
+ 2 SYSTEMPATH\Common.php(1167): CodeIgniter\View\View->render('mahasiswa/display', [], true)
+ 3 APPPATH\Controllers\Mahasiswa.php(16): view('mahasiswa/display', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Mahasiswa->display()
+ 5 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Mahasiswa))
+ 6 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-09-09 15:43:17 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "mahasiswa/display.php"
+[Method: GET, Route: mahasiswa]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('mahasiswa/display.php')
+ 2 SYSTEMPATH\Common.php(1167): CodeIgniter\View\View->render('mahasiswa/display', [], true)
+ 3 APPPATH\Controllers\Mahasiswa.php(16): view('mahasiswa/display', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Mahasiswa->display()
+ 5 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Mahasiswa))
+ 6 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-09-09 15:48:31 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "mahasiswa/display.php"
+[Method: GET, Route: mahasiswa]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('mahasiswa/display.php')
+ 2 SYSTEMPATH\Common.php(1167): CodeIgniter\View\View->render('mahasiswa/display', [], true)
+ 3 APPPATH\Controllers\Mahasiswa.php(16): view('mahasiswa/display', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Mahasiswa->display()
+ 5 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Mahasiswa))
+ 6 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-09-09 16:29:54 --> ErrorException: Undefined variable $keyword
+[Method: GET, Route: mahasiswa]
+in APPPATH\Views\mahasiswa\daftarMahasiswa.php on line 14.
+ 1 APPPATH\Views\mahasiswa\daftarMahasiswa.php(14): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $keyword', 'C:\\xampp\\htdocs\\CI4_1\\app\\Views\\mahasiswa\\daftarMahasiswa.php', 14)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\xampp\\htdocs\\CI4_1\\app\\Views\\mahasiswa\\daftarMahasiswa.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1167): CodeIgniter\View\View->render('mahasiswa/daftarMahasiswa', [], true)
+ 5 APPPATH\Controllers\Mahasiswa.php(20): view('mahasiswa/daftarMahasiswa', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Mahasiswa->display()
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Mahasiswa))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-09-09 16:57:26 --> Detail accessed with NIM: 2000002
+DEBUG - 2025-09-09 16:57:51 --> Detail accessed with NIM: 2000002
+DEBUG - 2025-09-09 16:57:57 --> Detail accessed with NIM: 2000004
+DEBUG - 2025-09-09 16:57:59 --> Detail accessed with NIM: 2000002
+DEBUG - 2025-09-09 16:58:05 --> Detail accessed with NIM: 2000002
+DEBUG - 2025-09-09 16:58:12 --> Detail accessed with NIM: 2000004
+DEBUG - 2025-09-09 16:58:22 --> Detail accessed with NIM: 2000004
+DEBUG - 2025-09-09 16:58:26 --> Detail accessed with NIM: 2000006
+DEBUG - 2025-09-09 16:58:38 --> Detail accessed with NIM: 2000007
+DEBUG - 2025-09-09 16:58:49 --> Detail accessed with NIM: 2000002
