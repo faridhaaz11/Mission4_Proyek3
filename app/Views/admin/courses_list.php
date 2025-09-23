@@ -21,24 +21,34 @@
                             <th>Aksi</th>
                         </tr>
                     </thead>
-                    <tbody>
-                        <?php foreach ($courses as $course): ?>
-                        <tr>
-                            <td><?= $course['course_id'] ?></td>
-                            <td><?= $course['course_name'] ?></td>
-                            <td><?= $course['credits'] ?></td>
-                            <td>
-                                <a href="/admin/edit-course/<?= $course['course_id'] ?>" class="btn btn-warning btn-sm me-2">Edit</a>
-                                <a href="/admin/delete-course/<?= $course['course_id'] ?>" class="btn btn-danger btn-sm" onclick="return confirm('Yakin hapus?')">Hapus</a>
-                            </td>
-                        </tr>
-                        <?php endforeach; ?>
-                    </tbody>
+                    <tbody id="course-table-body">
+            </tbody>
                 </table>
                 <a href="/dashboard" class="btn btn-secondary mt-3">Kembali ke Dashboard</a>
             </div>
         </div>
     </div>
+
+    <div class="modal fade" id="deleteModal" tabindex="-1" aria-labelledby="deleteModalLabel" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="deleteModalLabel">Konfirmasi Hapus</h5>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+                <div class="modal-body">
+                    <p id="deleteMessage"></p>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Batal</button>
+                    <a href="#" id="confirmDeleteButton" class="btn btn-danger">Hapus</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="<?= base_url('assets/js/script.js') ?>"></script>
+    
 </body>
 </html>

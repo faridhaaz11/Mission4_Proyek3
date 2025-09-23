@@ -47,25 +47,61 @@ class StudentController extends Controller
 
         $data['allCourses'] = $this->takeModel->getAllCourses();
         $enrolledCourses = $this->takeModel->getEnrolledCourses($student['student_id']);
-        $data['enrolledIds'] = !empty($enrolledCourses) ? array_column($enrolledCourses, 'course_id') : []; // Pastikan tidak error jika kosong
+        $data['enrolledIds'] = !empty($enrolledCourses) ? array_column($enrolledCourses, 'course_id') : [];
+        
         return view('mahasiswa/enroll_courses', $data);
     }
 
     // Proses enroll (POST)
     public function storeEnroll()
     {
-        $courseId = $this->request->getPost('course_id');
+        $courseIds = $this->request->getPost('course_id');
         $userId = $this->session->get('user_id');
         $student = $this->studentModel->where('user_id', $userId)->first();
 
-        if (!$student || empty($courseId)) {
-            return redirect()->back()->with('error', 'Data tidak valid.');
+        if (!$student || empty($courseIds)) {
+            return redirect()->back()->with('error', 'Pilih setidaknya satu mata kuliah.');
         }
 
-        if ($this->takeModel->enrollCourse($student['id'], $courseId)) {
-            return redirect()->to('/mahasiswa/enroll')->with('success', 'Mata kuliah berhasil diambil!');
+        $successCount = 0;
+        $errorMessages = [];
+        
+        foreach ($courseIds as $courseId) {
+            if ($this->takeModel->enrollCourse($student['student_id'], $courseId)) {
+                $successCount++;
+            } else {
+                // Tambahkan pesan error ke array
+                $errorMessages[] = "Mata kuliah dengan ID {$courseId} sudah diambil.";
+            }
+        }
+        
+        $finalMessage = '';
+        if ($successCount > 0) {
+            $finalMessage .= "Berhasil mengambil {$successCount} mata kuliah.";
+        }
+        
+        if (!empty($errorMessages)) {
+            // Gabungkan pesan error dengan pesan sukses (jika ada)
+            $finalMessage .= (!empty($finalMessage) ? '<br>' : '') . implode('<br>', $errorMessages);
+            return redirect()->to('/mahasiswa/enroll')->with('error', $finalMessage);
         } else {
-            return redirect()->back()->with('error', 'Mata kuliah sudah diambil atau error.');
+            return redirect()->to('/mahasiswa/enroll')->with('success', $finalMessage);
         }
     }
+
+    public function deleteEnrolledCourse($courseId)
+{
+    $userId = $this->session->get('user_id');
+    $student = $this->studentModel->where('user_id', $userId)->first();
+
+    if (!$student) {
+        return redirect()->back()->with('error', 'Data mahasiswa tidak ditemukan.');
+    }
+
+    $this->takeModel->where('student_id', $student['student_id'])
+                    ->where('course_id', $courseId)
+                    ->delete();
+
+    return redirect()->back()->with('success', 'Mata kuliah berhasil dihapus.');
+}
 }

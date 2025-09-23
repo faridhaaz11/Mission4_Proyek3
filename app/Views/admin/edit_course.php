@@ -7,7 +7,7 @@
 </head>
 <body>
     <div class="container mt-5">
-        <h1>Edit Mata Kuliah</h1>
+        <h1 class="fw-bold">Edit Mata Kuliah</h1>
         <?php if (session()->getFlashdata('error')): ?>
             <div class="alert alert-danger"><?= session()->getFlashdata('error') ?></div>
         <?php endif; ?>

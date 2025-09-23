@@ -7,7 +7,7 @@
 </head>
 <body>
     <div class="container mt-5">
-        <h1><?= $title ?></h1>
+        <h1 class="fw-bold"><?= $title ?></h1>
         <?php if (session()->getFlashdata('validation')): ?>
             <div class="alert alert-danger">
                 <?= session()->getFlashdata('validation')->listErrors() ?>

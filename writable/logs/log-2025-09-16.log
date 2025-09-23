@@ -3046,3 +3046,507 @@ DEBUG - 2025-09-16 18:18:07 --> Session: Class initialized using 'CodeIgniter\Se
 DEBUG - 2025-09-16 18:18:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
 DEBUG - 2025-09-16 18:21:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
 DEBUG - 2025-09-16 18:21:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-09-16 18:32:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-09-16 18:33:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-09-16 18:35:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-09-16 18:35:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-09-16 18:36:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-09-16 18:37:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-09-16 18:37:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-09-16 18:38:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-09-16 18:38:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-09-16 18:39:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-09-16 18:40:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-09-16 18:40:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-09-16 18:40:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-09-16 18:40:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-09-16 18:42:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-09-16 18:42:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-09-16 18:46:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-09-16 18:46:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-09-16 18:47:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-09-16 18:47:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-09-16 18:49:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-09-16 18:50:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-09-16 18:50:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-09-16 18:50:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-09-16 18:50:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-09-16 18:53:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-09-16 18:55:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-09-16 18:55:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-09-16 18:56:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-09-16 18:56:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-09-16 18:58:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-09-16 18:58:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-09-16 18:58:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-09-16 19:00:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-09-16 19:00:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-09-16 19:00:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-09-16 19:00:26 --> Enrolled courses: Array
+(
+    [0] => Array
+        (
+            [course_id] => 1
+            [course_name] => Pemrograman Web
+            [credits] => 3
+            [enroll_date] => 2025-09-16
+        )
+
+    [1] => Array
+        (
+            [course_id] => 1
+            [course_name] => Pemrograman Web
+            [credits] => 3
+            [enroll_date] => 2025-09-16
+        )
+
+    [2] => Array
+        (
+            [course_id] => 1
+            [course_name] => Pemrograman Web
+            [credits] => 3
+            [enroll_date] => 2025-09-16
+        )
+
+    [3] => Array
+        (
+            [course_id] => 1
+            [course_name] => Pemrograman Web
+            [credits] => 3
+            [enroll_date] => 2025-09-16
+        )
+
+)
+
+DEBUG - 2025-09-16 19:01:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-09-16 19:01:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-09-16 19:02:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-09-16 19:02:15 --> Enrolled courses: Array
+(
+    [0] => Array
+        (
+            [course_id] => 1
+            [course_name] => Pemrograman Web
+            [credits] => 3
+            [enroll_date] => 2025-09-16
+        )
+
+    [1] => Array
+        (
+            [course_id] => 1
+            [course_name] => Pemrograman Web
+            [credits] => 3
+            [enroll_date] => 2025-09-16
+        )
+
+    [2] => Array
+        (
+            [course_id] => 1
+            [course_name] => Pemrograman Web
+            [credits] => 3
+            [enroll_date] => 2025-09-16
+        )
+
+    [3] => Array
+        (
+            [course_id] => 1
+            [course_name] => Pemrograman Web
+            [credits] => 3
+            [enroll_date] => 2025-09-16
+        )
+
+)
+
+DEBUG - 2025-09-16 19:02:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-09-16 19:02:18 --> Enrolled courses: Array
+(
+    [0] => Array
+        (
+            [course_id] => 1
+            [course_name] => Pemrograman Web
+            [credits] => 3
+            [enroll_date] => 2025-09-16
+        )
+
+    [1] => Array
+        (
+            [course_id] => 1
+            [course_name] => Pemrograman Web
+            [credits] => 3
+            [enroll_date] => 2025-09-16
+        )
+
+    [2] => Array
+        (
+            [course_id] => 1
+            [course_name] => Pemrograman Web
+            [credits] => 3
+            [enroll_date] => 2025-09-16
+        )
+
+    [3] => Array
+        (
+            [course_id] => 1
+            [course_name] => Pemrograman Web
+            [credits] => 3
+            [enroll_date] => 2025-09-16
+        )
+
+)
+
+DEBUG - 2025-09-16 19:02:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-09-16 19:02:18 --> Enrolled courses: Array
+(
+    [0] => Array
+        (
+            [course_id] => 1
+            [course_name] => Pemrograman Web
+            [credits] => 3
+            [enroll_date] => 2025-09-16
+        )
+
+    [1] => Array
+        (
+            [course_id] => 1
+            [course_name] => Pemrograman Web
+            [credits] => 3
+            [enroll_date] => 2025-09-16
+        )
+
+    [2] => Array
+        (
+            [course_id] => 1
+            [course_name] => Pemrograman Web
+            [credits] => 3
+            [enroll_date] => 2025-09-16
+        )
+
+    [3] => Array
+        (
+            [course_id] => 1
+            [course_name] => Pemrograman Web
+            [credits] => 3
+            [enroll_date] => 2025-09-16
+        )
+
+)
+
+DEBUG - 2025-09-16 19:02:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-09-16 19:02:18 --> Enrolled courses: Array
+(
+    [0] => Array
+        (
+            [course_id] => 1
+            [course_name] => Pemrograman Web
+            [credits] => 3
+            [enroll_date] => 2025-09-16
+        )
+
+    [1] => Array
+        (
+            [course_id] => 1
+            [course_name] => Pemrograman Web
+            [credits] => 3
+            [enroll_date] => 2025-09-16
+        )
+
+    [2] => Array
+        (
+            [course_id] => 1
+            [course_name] => Pemrograman Web
+            [credits] => 3
+            [enroll_date] => 2025-09-16
+        )
+
+    [3] => Array
+        (
+            [course_id] => 1
+            [course_name] => Pemrograman Web
+            [credits] => 3
+            [enroll_date] => 2025-09-16
+        )
+
+)
+
+DEBUG - 2025-09-16 19:02:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-09-16 19:02:19 --> Enrolled courses: Array
+(
+    [0] => Array
+        (
+            [course_id] => 1
+            [course_name] => Pemrograman Web
+            [credits] => 3
+            [enroll_date] => 2025-09-16
+        )
+
+    [1] => Array
+        (
+            [course_id] => 1
+            [course_name] => Pemrograman Web
+            [credits] => 3
+            [enroll_date] => 2025-09-16
+        )
+
+    [2] => Array
+        (
+            [course_id] => 1
+            [course_name] => Pemrograman Web
+            [credits] => 3
+            [enroll_date] => 2025-09-16
+        )
+
+    [3] => Array
+        (
+            [course_id] => 1
+            [course_name] => Pemrograman Web
+            [credits] => 3
+            [enroll_date] => 2025-09-16
+        )
+
+)
+
+DEBUG - 2025-09-16 19:02:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-09-16 19:02:19 --> Enrolled courses: Array
+(
+    [0] => Array
+        (
+            [course_id] => 1
+            [course_name] => Pemrograman Web
+            [credits] => 3
+            [enroll_date] => 2025-09-16
+        )
+
+    [1] => Array
+        (
+            [course_id] => 1
+            [course_name] => Pemrograman Web
+            [credits] => 3
+            [enroll_date] => 2025-09-16
+        )
+
+    [2] => Array
+        (
+            [course_id] => 1
+            [course_name] => Pemrograman Web
+            [credits] => 3
+            [enroll_date] => 2025-09-16
+        )
+
+    [3] => Array
+        (
+            [course_id] => 1
+            [course_name] => Pemrograman Web
+            [credits] => 3
+            [enroll_date] => 2025-09-16
+        )
+
+)
+
+DEBUG - 2025-09-16 19:03:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-09-16 19:03:14 --> Enrolled courses: Array
+(
+    [0] => Array
+        (
+            [course_id] => 1
+            [course_name] => Pemrograman Web
+            [credits] => 3
+            [enroll_date] => 2025-09-16
+        )
+
+    [1] => Array
+        (
+            [course_id] => 1
+            [course_name] => Pemrograman Web
+            [credits] => 3
+            [enroll_date] => 2025-09-16
+        )
+
+    [2] => Array
+        (
+            [course_id] => 1
+            [course_name] => Pemrograman Web
+            [credits] => 3
+            [enroll_date] => 2025-09-16
+        )
+
+    [3] => Array
+        (
+            [course_id] => 1
+            [course_name] => Pemrograman Web
+            [credits] => 3
+            [enroll_date] => 2025-09-16
+        )
+
+)
+
+CRITICAL - 2025-09-16 19:03:14 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "mahasiswa/enroll_courses.php"
+[Method: GET, Route: mahasiswa/enroll]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('mahasiswa/enroll_courses.php')
+ 2 SYSTEMPATH\Common.php(1167): CodeIgniter\View\View->render('mahasiswa/enroll_courses', [], true)
+ 3 APPPATH\Controllers\StudentController.php(51): view('mahasiswa/enroll_courses', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\StudentController->enrollCourses()
+ 5 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\StudentController))
+ 6 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\CI4_Akademik\\public\\index.php')
+DEBUG - 2025-09-16 19:03:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-09-16 19:03:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-09-16 19:03:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-09-16 19:03:50 --> Enrolled courses: Array
+(
+    [0] => Array
+        (
+            [course_id] => 1
+            [course_name] => Pemrograman Web
+            [credits] => 3
+            [enroll_date] => 2025-09-16
+        )
+
+    [1] => Array
+        (
+            [course_id] => 1
+            [course_name] => Pemrograman Web
+            [credits] => 3
+            [enroll_date] => 2025-09-16
+        )
+
+    [2] => Array
+        (
+            [course_id] => 1
+            [course_name] => Pemrograman Web
+            [credits] => 3
+            [enroll_date] => 2025-09-16
+        )
+
+    [3] => Array
+        (
+            [course_id] => 1
+            [course_name] => Pemrograman Web
+            [credits] => 3
+            [enroll_date] => 2025-09-16
+        )
+
+    [4] => Array
+        (
+            [course_id] => 11
+            [course_name] => Aljabar Linear
+            [credits] => 2
+            [enroll_date] => 2025-09-16
+        )
+
+)
+
+DEBUG - 2025-09-16 19:05:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-09-16 19:05:14 --> Enrolled courses: Array
+(
+    [0] => Array
+        (
+            [course_id] => 1
+            [course_name] => Pemrograman Web
+            [credits] => 3
+            [enroll_date] => 2025-09-16
+        )
+
+    [1] => Array
+        (
+            [course_id] => 1
+            [course_name] => Pemrograman Web
+            [credits] => 3
+            [enroll_date] => 2025-09-16
+        )
+
+    [2] => Array
+        (
+            [course_id] => 1
+            [course_name] => Pemrograman Web
+            [credits] => 3
+            [enroll_date] => 2025-09-16
+        )
+
+    [3] => Array
+        (
+            [course_id] => 11
+            [course_name] => Aljabar Linear
+            [credits] => 2
+            [enroll_date] => 2025-09-16
+        )
+
+)
+
+DEBUG - 2025-09-16 19:05:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-09-16 19:05:28 --> Enrolled courses: Array
+(
+    [0] => Array
+        (
+            [course_id] => 1
+            [course_name] => Pemrograman Web
+            [credits] => 3
+            [enroll_date] => 2025-09-16
+        )
+
+    [1] => Array
+        (
+            [course_id] => 11
+            [course_name] => Aljabar Linear
+            [credits] => 2
+            [enroll_date] => 2025-09-16
+        )
+
+)
+
+DEBUG - 2025-09-16 19:06:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-09-16 19:06:00 --> Enrolled courses: Array
+(
+    [0] => Array
+        (
+            [course_id] => 1
+            [course_name] => Pemrograman Web
+            [credits] => 3
+            [enroll_date] => 2025-09-16
+        )
+
+    [1] => Array
+        (
+            [course_id] => 11
+            [course_name] => Aljabar Linear
+            [credits] => 2
+            [enroll_date] => 2025-09-16
+        )
+
+)
+
+DEBUG - 2025-09-16 19:06:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-09-16 19:07:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-09-16 19:07:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-09-16 19:07:10 --> Enrolled courses: Array
+(
+    [0] => Array
+        (
+            [course_id] => 1
+            [course_name] => Pemrograman Web
+            [credits] => 3
+            [enroll_date] => 2025-09-16
+        )
+
+    [1] => Array
+        (
+            [course_id] => 11
+            [course_name] => Aljabar Linear
+            [credits] => 2
+            [enroll_date] => 2025-09-16
+        )
+
+    [2] => Array
+        (
+            [course_id] => 10
+            [course_name] => Pemrograman Berorientasi Objek Praktik
+            [credits] => 3
+            [enroll_date] => 2025-09-16
+        )
+
+)
+
+DEBUG - 2025-09-16 19:08:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.

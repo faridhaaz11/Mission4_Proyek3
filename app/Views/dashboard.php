@@ -24,10 +24,9 @@
                                 <a class="nav-link" href="/manage-courses"><i class="fas fa-book"></i> Kelola Mata Kuliah</a>
                             <?php elseif ($role === 'mahasiswa'): ?>
                                 <a class="nav-link" href="/student/my-courses"><i class="fas fa-list"></i> Mata Kuliah Saya</a>
-                                <a class="nav-link" href="/view-courses"><i class="fas fa-eye"></i> Lihat Mata Kuliah</a>
-                                <a class="nav-link" href="/enroll-course"><i class="fas fa-plus"></i> Ambil Mata Kuliah</a>
+                                <a class="nav-link" href="/mahasiswa/enroll-courses"><i class="fas fa-plus"></i> Ambil Mata Kuliah</a>
                             <?php endif; ?>
-                            <a class="nav-link" href="/logout"><i class="fas fa-sign-out-alt"></i> Logout</a>
+                            <a class="nav-link" href="/logout" id="logoutButton"><i class="fas fa-sign-out-alt"></i> Logout</a>
                         <?php else: ?>
                             <a class="nav-link" href="/login"><i class="fas fa-sign-in-alt"></i> Login</a>
                         <?php endif; ?>
@@ -42,7 +41,25 @@
             </div>
         </div>
     </div>
-
+    <div class="modal fade" id="logoutModal" tabindex="-1" aria-labelledby="logoutModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered">
+        <div class="modal-content">
+        <div class="modal-header">
+            <h5 class="modal-title" id="logoutModalLabel">Konfirmasi Logout</h5>
+            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+        </div>
+        <div class="modal-body">
+            <p>Apakah Anda yakin ingin keluar?</p>
+        </div>
+        <div class="modal-footer">
+            <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Batal</button>
+            <a href="/logout" id="confirmLogoutButton" class="btn btn-danger">Logout</a>
+        </div>
+        </div>
+    </div>
+    </div>
+    
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="<?= base_url('assets/js/script.js') ?>"></script>
 </body>
 </html>

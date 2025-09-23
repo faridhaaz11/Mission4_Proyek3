@@ -7,7 +7,7 @@
 </head>
 <body>
     <div class="container mt-5">
-        <h1><?= $title ?></h1>
+        <h1 class="fw-bold"><?= $title ?></h1>
         <table class="table">
             <tr><th>NIM</th><td><?= $mahasiswa['nim'] ?></td></tr>
             <tr><th>Nama Lengkap</th><td><?= $mahasiswa['nama_lengkap'] ?></td></tr>

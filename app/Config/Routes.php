@@ -32,15 +32,26 @@ $routes->post('/mahasiswa/update/(:any)', 'MahasiswaController::update/$1');
 $routes->get('/mahasiswa/delete/(:any)', 'MahasiswaController::delete/$1');
 $routes->get('/mahasiswa/view/(:any)', 'MahasiswaController::view/$1');
 
-$routes->get('/mahasiswa/view-enrolled', 'StudentController::viewEnrolledCourses');
+// Rute untuk mahasiswa (halaman ambil mata kuliah)
 $routes->get('/mahasiswa/enroll', 'StudentController::enrollCourses');
 $routes->post('/mahasiswa/enroll/store', 'StudentController::storeEnroll');
 
-$routes->get('view-courses', 'CourseController::index');
-$routes->get('take-course', 'CourseController::take');
-$routes->post('take-course', 'CourseController::store');
-$routes->get('enroll-course', 'CourseController::take');
-$routes->post('enroll-course', 'CourseController::store');
-$routes->get('courses/enroll/(:segment)', 'CourseController::enroll/$1');
-$routes->get('/mahasiswa/view-enrolled', 'CourseController::viewEnrolled');
+// Rute untuk menampilkan daftar mata kuliah mahasiswa
+$routes->get('/mahasiswa/view-enrolled', 'StudentController::viewEnrolledCourses');
 $routes->get('/student/my-courses', 'CourseController::myCourses');
+
+$routes->get('/mahasiswa/delete-enrolled/(:num)', 'StudentController::deleteEnrolledCourse/$1');
+
+
+//$routes->get('/mahasiswa/view-enrolled', 'StudentController::viewEnrolledCourses');
+//$routes->get('/mahasiswa/enroll', 'StudentController::enrollCourses');
+//$routes->post('/mahasiswa/enroll/store', 'StudentController::storeEnroll');
+
+//$routes->get('view-courses', 'CourseController::index');
+//$routes->get('take-course', 'CourseController::take');
+//$routes->post('take-course', 'CourseController::store');
+//$routes->get('enroll-course', 'CourseController::take');
+//$routes->post('enroll-course', 'CourseController::store');
+//$routes->get('courses/enroll/(:segment)', 'CourseController::enroll/$1');
+//$routes->get('/mahasiswa/view-enrolled', 'CourseController::viewEnrolled');
+//$routes->get('/student/my-courses', 'CourseController::myCourses');

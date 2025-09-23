@@ -7,7 +7,7 @@
 </head>
 <body>
     <div class="container mt-5">
-        <h1>Mata Kuliah yang Diambil</h1>
+        <h1 class="fw-bold">Mata Kuliah yang Diambil</h1>
         <?php if (session()->getFlashdata('success')): ?>
             <div class="alert alert-success"><?= session()->getFlashdata('success') ?></div>
         <?php endif; ?>

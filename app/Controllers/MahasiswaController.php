@@ -51,7 +51,7 @@ class MahasiswaController extends BaseController
         }
 
         $rules = [
-            'nim' => 'required|min_length[10]|max_length[10]|is_unique[mahasiswa.nim]',
+            'nim' => 'required|min_length[10]|max_length[10]',
             'nama_lengkap' => 'required|min_length[3]',
             'jenis_kelamin' => 'required|in_list[L,P]',
             'tanggal_lahir' => 'required|valid_date',
